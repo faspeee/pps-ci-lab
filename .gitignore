@@ -1,17 +1,6 @@
-.metadata/
-.recommenders/
+.gradle/
 build/
-bin/
-.directory
-.gradle
-gradle.prefs
-version.info
-prepare_environment.sh
-**/*-gen/
-**/*generated*/
-*.cache-main
-*.cache-tests
-.idea
+.idea/
 out/
 .DS_Store
 
